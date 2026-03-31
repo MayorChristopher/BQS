@@ -140,7 +140,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
-**Stanley Offia**
+**Mayor Ugochukwu**
 - Email: stanleyoffia@gmail.com
 - Phone: 08085017786
 - Location: MOUAU, Abia State
